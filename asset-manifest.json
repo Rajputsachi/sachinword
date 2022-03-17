@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sachinword/static/css/main.abd64e84.css",
+    "main.js": "/sachinword/static/js/main.39fe934d.js",
+    "static/js/787.d3befce1.chunk.js": "/sachinword/static/js/787.d3befce1.chunk.js",
+    "index.html": "/sachinword/index.html",
+    "main.abd64e84.css.map": "/sachinword/static/css/main.abd64e84.css.map",
+    "main.39fe934d.js.map": "/sachinword/static/js/main.39fe934d.js.map",
+    "787.d3befce1.chunk.js.map": "/sachinword/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.39fe934d.js"
+  ]
+}
